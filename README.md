@@ -1,4 +1,4 @@
-# OmniContext Local Intelligence Framework
+<img width="1191" height="341" alt="image" src="https://github.com/user-attachments/assets/8d1216b1-596c-4301-8e6e-106f4cbb1d6b" /># OmniContext Local Intelligence Framework
 
 An air-gapped, enterprise-grade local vector Retrieval-Augmented Generation (RAG) framework optimized for edge execution on Snapdragon NPU/CPU hardware architectures. Built for the Snapdragon® AI Lab Build & Present Challenge 2026.
 
@@ -32,6 +32,19 @@ Run these commands in your terminal:
 ```bash
 ollama pull qwen2.5:3b
 ollama pull nomic-embed-text
+```
+### 3. Setup Repository & Install Dependencies
+```bash
+git clone [https://github.com/YOUR_USERNAME/omnicontext-framework.git](https://github.com/YOUR_USERNAME/omnicontext-framework.git)
+cd omnicontext-framework
+py -m pip install -r requirements.txt
+```
+
+### 4. Launch application
+py -m streamlit run app.py
+
+
+
 
 
 
