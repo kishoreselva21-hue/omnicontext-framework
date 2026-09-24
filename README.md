@@ -1,4 +1,4 @@
-<img width="1191" height="341" alt="image" src="https://github.com/user-attachments/assets/8d1216b1-596c-4301-8e6e-106f4cbb1d6b" /># OmniContext Local Intelligence Framework
+OmniContext Local Intelligence Framework
 
 An air-gapped, enterprise-grade local vector Retrieval-Augmented Generation (RAG) framework optimized for edge execution on Snapdragon NPU/CPU hardware architectures. Built for the Snapdragon® AI Lab Build & Present Challenge 2026.
 
